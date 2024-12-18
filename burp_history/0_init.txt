@@ -1,0 +1,6 @@
+name : Azaria Khanmida
+birthdate : 15 February 1999
+gender : Female
+email : juc2q25puu@vwhins.com
+password : akusayangkamu123
+code : 22029
